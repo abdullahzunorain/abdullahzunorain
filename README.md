@@ -3,6 +3,16 @@
 <h1 align="center">Hi 👋, I'm Abdullah Zunorain</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X7Q2YXQ8LG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X7Q2YXQ8LG');
+</script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunokamal&label=Profile%20views&color=0e75b6&style=flat" alt="zunokamal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
