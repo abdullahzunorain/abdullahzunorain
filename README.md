@@ -17,6 +17,7 @@
 ### Blogs posts: 
 <h1 align="center"> https://medium.com/@abdullahzunorain </h1>
 <!-- BLOG-POST-LIST:START -->
+<h3 align="center"> https://medium.com/@abdullahzunorain </h3>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
