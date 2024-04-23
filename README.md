@@ -14,7 +14,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dQ21ODIHA6fP9VsInDXAoIXBROfASw5n/view?usp=sharing](https://drive.google.com/file/d/1dQ21ODIHA6fP9VsInDXAoIXBROfASw5n/view?usp=sharing)
 
-### Blogs posts : <h1 align="center"> https://medium.com/@abdullahzunorain </h1>
+### Blogs posts: 
+<h1 align="center"> https://medium.com/@abdullahzunorain </h1>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
