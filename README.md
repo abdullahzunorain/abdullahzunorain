@@ -4,6 +4,9 @@
 <h3 align="center">A passionate Data scientist</h3>
 
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abdullahzunorain" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/abdullahzunorain?trk=profile-badge">Abdullah Zunorain</a></div>
+              
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunokamal&label=Profile%20views&color=0e75b6&style=flat" alt="zunokamal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
