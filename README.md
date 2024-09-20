@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Zunorain</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunokamal&label=Profile%20views&color=0e75b6&style=flat" alt="zunokamal" /> </p>
 
