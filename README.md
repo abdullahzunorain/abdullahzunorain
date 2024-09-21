@@ -13,8 +13,6 @@
 - 📫 How to reach me **abdullahzunorain2@gmail.com**
 
 - 📄 Know about my experiences [https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/abdullah-zunorain/ccec01fd-a0ba-439d-9d45-dc695955bc37?view=html]
--
-- (https://drive.google.com/file/d/1dQ21ODIHA6fP9VsInDXAoIXBROfASw5n/view?usp=sharing)
 
 ### Blogs posts: 
 
